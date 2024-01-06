@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Tes git remote</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, porro officiis! Facere vero officia ipsa? Ex non consequatur qui error. Asperiores at quod eaque voluptates nostrum? Ratione nostrum quae eveniet.</p>
 </body>
 </html>
